@@ -15,7 +15,7 @@ Download FFMPEG according to your windows architecture (either 32 or 64 bit) fro
 All contributions are welcome , just send a pull request, i will try my best to check them as fast as possible 
 
 ## Credits
-Powered by[FFMPEG](http://FFmpeg.org)
+Powered by [FFMPEG](http://FFmpeg.org)
 
 **Contributors:**
 

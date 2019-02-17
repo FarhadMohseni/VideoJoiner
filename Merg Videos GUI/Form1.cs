@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -47,7 +48,7 @@ namespace Merg_Videos_GUI
 
                 var outputPath = saveFileDialog1.FileName;
                 string fn = "";
-                string[] reolution = comboBox1.Text.Split('x');
+    
 
                 using (var stw = new StreamWriter("videos.txt"))
                     foreach(var fileName in openFileDialog1.FileNames)
@@ -66,11 +67,15 @@ namespace Merg_Videos_GUI
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            comboBox1.SelectedIndex = 0;
             comboBox2.SelectedIndex = 5;
 
             if(!File.Exists("ffmpeg.exe"))
                 MessageBox.Show("FFMPEG Not found , you need to add that in root directory","Error");
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Process.Start("https://github.com/FarhadMohseni/VideoJoiner");
         }
     }
 }

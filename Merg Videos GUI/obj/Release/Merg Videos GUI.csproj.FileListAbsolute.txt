@@ -1,0 +1,9 @@
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\VideoJoiner\Merg Videos GUI\obj\Release\Merg_Videos_GUI.Form1.resources
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\VideoJoiner\Merg Videos GUI\obj\Release\Merg_Videos_GUI.Properties.Resources.resources
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\VideoJoiner\Merg Videos GUI\obj\Release\Merg Videos GUI.csproj.GenerateResource.cache
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\VideoJoiner\Merg Videos GUI\obj\Release\Merg Videos GUI.csproj.CoreCompileInputs.cache
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\VideoJoiner\Merg Videos GUI\bin\Release\Merg Videos GUI.exe.config
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\VideoJoiner\Merg Videos GUI\bin\Release\Merg Videos GUI.exe
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\VideoJoiner\Merg Videos GUI\bin\Release\Merg Videos GUI.pdb
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\VideoJoiner\Merg Videos GUI\obj\Release\Merg Videos GUI.exe
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\VideoJoiner\Merg Videos GUI\obj\Release\Merg Videos GUI.pdb

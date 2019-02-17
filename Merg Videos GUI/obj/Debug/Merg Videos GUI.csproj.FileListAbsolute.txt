@@ -1,0 +1,10 @@
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\Merg Videos GUI\Merg Videos GUI\obj\Debug\Merg Videos GUI.csprojAssemblyReference.cache
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\Merg Videos GUI\Merg Videos GUI\obj\Debug\Merg_Videos_GUI.Form1.resources
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\Merg Videos GUI\Merg Videos GUI\obj\Debug\Merg_Videos_GUI.Properties.Resources.resources
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\Merg Videos GUI\Merg Videos GUI\obj\Debug\Merg Videos GUI.csproj.GenerateResource.cache
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\Merg Videos GUI\Merg Videos GUI\obj\Debug\Merg Videos GUI.csproj.CoreCompileInputs.cache
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\Merg Videos GUI\Merg Videos GUI\bin\Debug\Merg Videos GUI.exe.config
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\Merg Videos GUI\Merg Videos GUI\bin\Debug\Merg Videos GUI.exe
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\Merg Videos GUI\Merg Videos GUI\bin\Debug\Merg Videos GUI.pdb
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\Merg Videos GUI\Merg Videos GUI\obj\Debug\Merg Videos GUI.exe
+C:\Users\Farhad\Documents\Visual Studio 2017\Projects\Merg Videos GUI\Merg Videos GUI\obj\Debug\Merg Videos GUI.pdb

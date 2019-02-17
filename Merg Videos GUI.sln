@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merg Videos GUI", "Merg Videos GUI\Merg Videos GUI.csproj", "{A33CF7EA-C380-45F4-A691-0484C07DD9AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A33CF7EA-C380-45F4-A691-0484C07DD9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33CF7EA-C380-45F4-A691-0484C07DD9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33CF7EA-C380-45F4-A691-0484C07DD9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33CF7EA-C380-45F4-A691-0484C07DD9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D5D906-510D-4CFD-ACBB-6A54E9E13683}
+	EndGlobalSection
+EndGlobal

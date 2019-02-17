@@ -4,7 +4,7 @@ A GUI app written in c# for merging multiple videos
 ## Quick start
 Download FFMPEG according to your windows architecture (either 32 or 64 bit) from [here](https://ffmpeg.zeranoe.com/builds/)
 
-1. Download the app from Releases and extract it
+1. Download the app from [Releases](https://github.com/FarhadMohseni/VideoJoiner/releases/) and extract it
 
 2. Copy  "ffmpeg.exe" to root directory of the app
 
